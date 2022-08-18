@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T10:25:15.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="w1QQjIMGPnyXPn-GH3DS" version="20.2.4" type="github"><diagram id="J76fuJRlwHI2TVzWreJ7" name="第1頁">7VjbctowEP0aHtPxhetjMEmTKZlhSlKSp46Cha1E9npkEUy+vitbxigGSi6UPjDjB+/xrrw6Z3d9abhelH0XJAlvwKe84Vh+1nAHDcexm47TUIflLwuk09ZAIJivnSpgzF6pBi2NzplPU8NRAnDJEhOcQhzTqTQwIgQsTLcZcPOuCQloDRhPCa+jE+bLsEC7TqfCrygLwvLOdrtXXIlI6ax3kobEh8Ua5F40XE8AyOIsyjzKFXklL0Xc5Zarq8QEjeU+ARO7G0/PZ79/vV5md0/nd7PJbf9slZxcljumPhKgTRAyhABiwi8qtC9gHvtULWuhVfkMARIEbQSfqJRLrSaZS0AolBHXV2nG5P3a+YNa6lunpc1BppfOjWVpxFIs79eNIqxVmlVYbpVxxQbVrrYSp6EU5mJKd7GlC5CIgModfm6lLzYGhYhiQhgoKCeSvZiJEF2hwcpvFToChik6lu4mp6XV0r3kdC1ziSIxHVWVAp6spVFBeYG8o1hc5yjF8kHdNxeZs7vIjlAsmNHnisWQ+b2a6ixfCJ/rO41DnFKONZZEztOa4JWcitdFyCQdJyQnYoFPAFM6vTYVkma7+axvvwywzJq3e9peVNPYLqdYuDaJ29aBGHNrjE0EsnB0pprdN9OhfWymmjWmbmmq5tkPJo9Ol+2adDWPTpdT58sLWbK9F9MFiziJ1ZSdQSzLOazm2DRk3B+SJcxV1qkk0+fS6ocg2Cv6k5JNvCyknr+uZXiMVaReU9AUfUYlw/Yb6IZkhuOQpLLMBjgnScoe8/xUYIRTkcV9kBIiY/R+SlPXNjXtbJC0uUHS3sEkbdUkHV09XA9qUuKeZa6EgGfqAQeBeAyFtozzNxDhLIjR5HSmwhRpDN9ZzzUcMd/PH74pdhCLg2HuNmhWyE+9eQUBhs94/moaYiDFFfqJeofI2Wj18UB+PPXEbWGuHtp2ZeOh3IX0IMb0Cculoij+QjW7egHA6iWPq9LcS+cdDVJXX6vt7qm2ezC12/UGvroeIaK+i06aH0DzTUP732rerb9ADcanmf3hmb36yPmbpKuH89dr2qtpOmTx83ZRT528Tyd3/+/pXS68rjp+oz6qZjopf0Dljz7DXbum/G12RiL16v0rx06yf73smz7kv0h2NKv/qsXfr+rvtHvxBw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-18T10:27:46.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="rXXj0kX5GEkdkoVPfgo7" version="20.2.4" type="github">
+  <diagram id="J76fuJRlwHI2TVzWreJ7" name="第1頁">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="W18ncAf_VzFxUjAUfWTB-2" target="W18ncAf_VzFxUjAUfWTB-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZxKiZrWVlgIqvtpK6fi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W18ncAf_VzFxUjAUfWTB-2" target="W18ncAf_VzFxUjAUfWTB-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-2" value="Show Status" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-3" value="Write" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-4" value="Test Kit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-24" value="Chip Status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="30" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-25" value="PHYID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="W18ncAf_VzFxUjAUfWTB-24" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-26" value="CHIP Mode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="W18ncAf_VzFxUjAUfWTB-24" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-28" value="SDS Status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-29" value="Link Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="W18ncAf_VzFxUjAUfWTB-28" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-30" value="Loopback Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="W18ncAf_VzFxUjAUfWTB-28" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W18ncAf_VzFxUjAUfWTB-31" value="Tx-amp Value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="W18ncAf_VzFxUjAUfWTB-28" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
